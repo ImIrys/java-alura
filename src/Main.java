@@ -7,8 +7,6 @@ public class Main {
         System.out.println("Ano de Lançamento: " + anoDeLancamento);
         boolean incluidoNoPlano = true;
         double notaDoFilme = 8.1;
-
-        // Média calculada pelas notas ficticias
         double media = (9.8 + 6.3 + 8.0) /3;
         System.out.println(String.format("Média: %.2f ", media));
         String sinopseFilme;
