@@ -32,4 +32,5 @@ public class Main {
         int classificacaoFilme = (int) (media /2);
         System.out.println("Classificação: " + classificacaoFilme);
     }
+
 }
