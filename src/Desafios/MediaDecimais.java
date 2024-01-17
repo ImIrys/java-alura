@@ -12,6 +12,7 @@ public class MediaDecimais {
         /* Formatação de texto 1:
         System.out.println(String.format("A média entre %d e %d é: %d",  n1, n2, media));
         */
+
         // Formatação de texto 2:
         String mensagem = """
                 A média entre %d e %d é: %d
