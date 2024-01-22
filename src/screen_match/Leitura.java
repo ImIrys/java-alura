@@ -11,7 +11,7 @@ public class Leitura {
         String filme = leitura.nextLine(); // vai ler o que foi digitado no terminal e vai armazenar na variável filme.
         System.out.println("Digite o ano de lançamento");
         int anoLancamento = leitura.nextInt(); // vai ler um valor inteiro
-        System.out.println("Digite sua avaliação para po filme");
+        System.out.println("Digite sua avaliação para o filme");
         double avaliacaoFilme = leitura.nextDouble(); // vai ler um valor decimal
 
         System.out.println(String.format("Filme favorito: " + filme));
